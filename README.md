@@ -241,4 +241,4 @@ Keep an eye on [changes](CHANGELOG.md).
 
 # License
 
-TableKit is available under the MIT license. See LICENSE for details.
+TableKit is available under the MIT license. See [license](LICENSE) for details.
